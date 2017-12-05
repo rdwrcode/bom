@@ -14,3 +14,18 @@ Or just use through-hole header as a cheap replacement with the pogo connector o
 | P70-5100045 | Harwin | 0.818 each at 10 | individual pin, 1.10mm diameter max |
 | M50-3500542 | Harwin | 1.31 each at 10 | pitch 1.27mm header 10pos 2row |
 
+## Resistor
+
+| part | source | price | notes |
+| --- | :--- | ---: | --- |
+| MFR-25FTF52-100K | Yageo | 0.042 each at 100 | through hole, metal film, 0.25W 1% |
+| RK73B2ATTD104J | KOA | 0.01 at 100 | 0805 thick film 0.25w 5% |
+| RK73H2ATTD2200F | KOA | 0.012 at 100 | 0805 thick filem 220ohm 0.25w 1% |
+
+## Capacitor
+
+| part | source | price | notes |
+| --- | :--- | ---: | --- |
+| LMK212BJ226MG-T | Taiyo Yuden | 0.182 at 100 | 0805 22uF multilayer ceramic |
+ 
+
