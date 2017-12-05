@@ -14,3 +14,8 @@ For other color, it seems there is no very bright LED in 0805. So try 0603.
 | LT Q39G-Q1OO-25-1 | OSRAM | 0.243 each at 100 | 0603 green 71mcd |
 | SMLE13BC8TT86 | Rohm | 0.205 each at 100 | 0603 blue 40mcd |
 
+## R
+| part | source | price | notes |
+| --- | :--- | ---: | --- |
+| RC0805FR-0782RL | Yageo | 0.006 each | 0805 82ohm |
+
