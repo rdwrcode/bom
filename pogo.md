@@ -21,6 +21,7 @@ Or just use through-hole header as a cheap replacement with the pogo connector o
 | MFR-25FTF52-100K | Yageo | 0.042 each at 100 | through hole, metal film, 0.25W 1% |
 | RK73B2ATTD104J | KOA | 0.01 at 100 | 0805 thick film 0.25w 5% |
 | RK73H2ATTD2200F | KOA | 0.012 at 100 | 0805 thick filem 220ohm 0.25w 1% |
+| RK73H2ATTE1501F | KOA | 0.012 at 100 | 0805 1.5K film |
 
 ## Capacitor
 
