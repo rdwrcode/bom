@@ -27,7 +27,15 @@ For other color, it seems there is no very bright LED in 0805. So try 0603.
 | APTD2012LSYCK | Kingbright | 0.211 each at 100 | 0805 yellow 90mcd 2mA |
 
 ## R
+
 | part | source | price | notes |
 | --- | :--- | ---: | --- |
 | RC0805FR-0782RL | Yageo | 0.006 each | 0805 82ohm |
+
+## RGB LED through-hole
+
+| part | source | price | notes |
+| --- | :--- | ---: | --- |
+| WP154A4SUREQBFZGC | Kingbright | 1.37 each at 10 | RGB, 5mm, 1000 mcd, 1300 mcd, 500 mcd |
+| COM-11450 | Sparkfun | 1.04 each | RGB cycling, slow |
 
